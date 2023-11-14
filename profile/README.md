@@ -1,6 +1,6 @@
 ## Airflight ticket buying system
-Course: CM00639
-Group3
+- Course: CM00639
+- Group3
 
 <!--
 
